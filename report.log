@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.12.5)  8 DEC 2021 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.12.5)  8 DEC 2021 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,20 +314,20 @@ LaTeX Warning: Label `dart/makemytripdart' multiply defined.
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -394,7 +394,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 49.
+Package hyperref Info: Link coloring OFF on input line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -404,9 +404,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count120
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
 
 (./report.out) (./report.out)
 \@outlinefile=\write3
@@ -414,12 +414,12 @@ LaTeX Info: Redefining \nameref on input line 49.
 
 \c@lstlisting=\count121
  (./chapters/title.tex
-<images/logogne.png, id=257, 951.555pt x 1043.9pt>
+<images/logogne.png, id=357, 951.555pt x 1043.9pt>
 File: images/logogne.png Graphic file (type png)
 <use images/logogne.png>
 Package pdftex.def Info: images/logogne.png  used on input line 4.
 (pdftex.def)             Requested size: 142.26378pt x 156.06853pt.
-<images/auribises.jpg, id=259, 176.66pt x 176.66pt>
+<images/auribises.jpg, id=359, 176.66pt x 176.66pt>
 File: images/auribises.jpg Graphic file (type jpg)
 <use images/auribises.jpg>
 Package pdftex.def Info: images/auribises.jpg  used on input line 29.
@@ -485,7 +485,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--20
  []
 
 [2]) (./chapters/certificate.tex
-<images/certificate.pdf, id=275, 597.51233pt x 845.0471pt>
+<images/certificate.pdf, id=375, 597.51233pt x 845.0471pt>
 File: images/certificate.pdf Graphic file (type pdf)
 <use images/certificate.pdf>
 Package pdftex.def Info: images/certificate.pdf  used on input line 9.
@@ -527,11 +527,101 @@ Overfull \hbox (1.63202pt too wide) detected at line 41
 
 [2
 
-])
+]
+Overfull \hbox (1.41595pt too wide) detected at line 77
+ []\T1/bch/m/n/12 102
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 78
+ []\T1/bch/m/n/12 103
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 79
+ []\T1/bch/m/n/12 108
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 80
+ []\T1/bch/m/n/12 110
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 81
+ []\T1/bch/m/n/12 110
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 82
+ []\T1/bch/m/n/12 116
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 83
+ []\T1/bch/m/n/12 125
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 84
+ []\T1/bch/m/n/12 125
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 85
+ []\T1/bch/m/n/12 129
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 86
+ []\T1/bch/m/n/12 132
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 87
+ []\T1/bch/m/n/12 132
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 88
+ []\T1/bch/m/n/12 133
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 89
+ []\T1/bch/m/n/12 133
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 90
+ []\T1/bch/m/n/12 134
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 91
+ []\T1/bch/m/n/12 134
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 92
+ []\T1/bch/m/n/12 135
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 93
+ []\T1/bch/m/n/12 135
+ []
+
+[3]
+Overfull \hbox (1.41595pt too wide) detected at line 94
+ []\T1/bch/m/n/12 140
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
- [3] (./chapters/introduction.tex
+ [4] (./chapters/introduction.tex
 Chapter 1.
 ) (./chapters/tourofdart.texpdfTeX warning (ext4): destination with the same id
 entifier (name{page.1}) has been already used, duplicate ignored
@@ -607,13 +697,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--447
  []
 
 
-Underfull \hbox (badness 5359) in paragraph at lines 470--470
-[]|\T1/bch/m/n/12 =   *=   /=
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 470--470
-\T1/bch/m/n/12 +=   -=   &=
+Underfull \hbox (badness 2941) in paragraph at lines 470--470
+[]|\T1/bch/m/n/12 =   *=   /=  +=   -=
  []
 
 
@@ -641,7 +726,7 @@ Overfull \hbox (4.72055pt too wide) in paragraph at lines 568--569
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 890.
  (./dart/Session1.dart [21] [22])
-<dart/Output1.png, id=1105, 451.6875pt x 349.305pt>
+<dart/Output1.png, id=1235, 451.6875pt x 349.305pt>
 File: dart/Output1.png Graphic file (type png)
 <use dart/Output1.png>
 Package pdftex.def Info: dart/Output1.png  used on input line 891.
@@ -652,7 +737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 891--892
  []
 
 (./dart/Session2.dart [23 <./dart/Output1.png>])
-<dart/initialisationOutput.png, id=1131, 446.66875pt x 178.6675pt>
+<dart/initialisationOutput.png, id=1262, 446.66875pt x 178.6675pt>
 File: dart/initialisationOutput.png Graphic file (type png)
 <use dart/initialisationOutput.png>
 Package pdftex.def Info: dart/initialisationOutput.png  used on input line 895.
@@ -665,7 +750,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 895--896
 
 (./dart/Session2final_const.dart [24 <./dart/initialisationOutput.png>])
 (./dart/Session5.dart) (./dart/Session7.dart [25])
-<dart/abstract.png, id=1223, 494.84875pt x 171.64125pt>
+<dart/abstract.png, id=1353, 494.84875pt x 171.64125pt>
 File: dart/abstract.png Graphic file (type png)
 <use dart/abstract.png>
 Package pdftex.def Info: dart/abstract.png  used on input line 902.
@@ -676,7 +761,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 902--903
  []
 
 [26 <./dart/abstract.png>] (./dart/stringrandom.dart)
-<dart/randomgeneratestring.png, id=1270, 416.55624pt x 119.44624pt>
+<dart/randomgeneratestring.png, id=1399, 416.55624pt x 119.44624pt>
 File: dart/randomgeneratestring.png Graphic file (type png)
 <use dart/randomgeneratestring.png>
 Package pdftex.def Info: dart/randomgeneratestring.png  used on input line 905.
@@ -688,7 +773,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 905--906
  []
 
 (./dart/Session1HW.dart [27 <./dart/randomgeneratestring.png>])
-<dart/waterbottleOutput.png, id=1306, 596.2275pt x 132.495pt>
+<dart/waterbottleOutput.png, id=1436, 596.2275pt x 132.495pt>
 File: dart/waterbottleOutput.png Graphic file (type png)
 <use dart/waterbottleOutput.png>
 Package pdftex.def Info: dart/waterbottleOutput.png  used on input line 909.
@@ -700,7 +785,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 909--910
 
 [28 <./dart/waterbottleOutput.png>]
 (./dart/Assignment1CovidCasesTabularform.dart [29] [30] [31])
-<dart/covidcases.png, id=1515, 985.6825pt x 599.23875pt>
+<dart/covidcases.png, id=1645, 985.6825pt x 599.23875pt>
 File: dart/covidcases.png Graphic file (type png)
 <use dart/covidcases.png>
 Package pdftex.def Info: dart/covidcases.png  used on input line 912.
@@ -711,7 +796,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 912--913
  []
 
 [32] (./dart/makemytrip.dart [33 <./dart/covidcases.png>])
-<dart/makemytrip.png, id=1600, 745.78625pt x 160.6pt>
+<dart/makemytrip.png, id=1730, 745.78625pt x 160.6pt>
 File: dart/makemytrip.png Graphic file (type png)
 <use dart/makemytrip.png>
 Package pdftex.def Info: dart/makemytrip.png  used on input line 915.
@@ -752,63 +837,154 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--68
  []
 
 [37] (./dart/Session8.dart [38] [39])
-<dart/flutterdemo.png, id=1758, 425.59pt x 538.01pt>
+<dart/flutterdemo.png, id=1888, 425.59pt x 538.01pt>
 File: dart/flutterdemo.png Graphic file (type png)
 <use dart/flutterdemo.png>
 Package pdftex.def Info: dart/flutterdemo.png  used on input line 69.
 (pdftex.def)             Requested size: 455.24408pt x 575.52545pt.
-) (./chapters/work-done.tex
-Underfull \hbox (badness 10000) in paragraph at lines 69--1
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
-[40] [41 <./dart/flutterdemo.png>]
+[40] (./dart/Assignment2Loader [41 <./dart/flutterdemo.png>])
+<dart/loader.png, id=1942, 428.60126pt x 528.97626pt>
+File: dart/loader.png Graphic file (type png)
+<use dart/loader.png>
+Package pdftex.def Info: dart/loader.png  used on input line 73.
+(pdftex.def)             Requested size: 227.62192pt x 227.61678pt.
+)
+(./chapters/project.tex [42 <./dart/loader.png>]
 Chapter 4.
-) (./chapters/future-work.tex [42
+(./StudioProjects/fooddelivery/lib/main.dart [43
 
-]
+] [44] [45])
+(./StudioProjects/fooddelivery/lib/home/splash-page.dart [46])
+(./StudioProjects/fooddelivery/lib/home/home-page.dart [47] [48] [49] [50]
+[51]) (./StudioProjects/fooddelivery/lib/pages/tags-page.dart [52] [53]
+[54]) (./StudioProjects/fooddelivery/lib/pages/success.dart [55])
+(./StudioProjects/fooddelivery/lib/pages/show-orders.dart [56] [57] [58])
+(./StudioProjects/fooddelivery/lib/pages/restaurants.dart [59] [60] [61]
+[62]) (./StudioProjects/fooddelivery/lib/pages/restaurants-data-page.dart
+[63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73])
+(./StudioProjects/fooddelivery/lib/pages/dishes.dart [74] [75] [76] [77]
+[78] [79]) (./StudioProjects/fooddelivery/lib/pages/dishes-data-page.dart
+[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92])
+(./StudioProjects/fooddelivery/lib/pages/cart-page.dart [93] [94] [95] [96]
+[97] [98] [99] [100] [101] [102] [103] [104])
+(./StudioProjects/fooddelivery/lib/pages/location-page.dart [105])
+(./StudioProjects/fooddelivery/lib/pages/more-info-order.dart [106] [107]
+[108] [109] [110]) (./StudioProjects/fooddelivery/lib/pages/razorpay-page.dart
+[111] [112]) (./StudioProjects/fooddelivery/lib/auth/login-page.dart [113]
+[114] [115] [116] [117] [118])
+(./StudioProjects/fooddelivery/lib/auth/register-page.dart [119] [120] [121]
+[122] [123] [124] [125] [126] [127])
+(./StudioProjects/fooddelivery/lib/profile/user-profile.dart [128] [129]
+[130] [131]) (./StudioProjects/fooddelivery/lib/profile/user-addresses.dart
+[132] [133] [134]) (./StudioProjects/fooddelivery/lib/model/dish.dart [135])
+(./StudioProjects/fooddelivery/lib/model/restaurant.dart)
+(./StudioProjects/fooddelivery/lib/model/order.dart [136])
+(./StudioProjects/fooddelivery/lib/model/user.dart)
+(./StudioProjects/fooddelivery/lib/model/dish-model-for-cart.dart [137])
+(./StudioProjects/fooddelivery/lib/model/address.dart)
+(./StudioProjects/fooddelivery/lib/custom-widgets/counter.dart [138] [139]
+[140] [141]) [142] (./StudioProjects/fooddelivery/lib/util/constants.dart
+[143])) (./chapters/conclusion.tex [144]
 Chapter 5.
-) (./chapters/conclusion.tex [43
-
-]
-Chapter 6.
-) (./chapters/ref.tex [44
+) (./chapters/ref.tex [145
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
- [45
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+ [146
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 78E5054845DA46C57BE81F0466701DCF;4546.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: CD3B074F2C1D46FB87FA4E16C5586832;6225
+(rerunfilecheck)             After:  C5B8AEC06F83B26835E3FB4F5831968F;6281.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 10084 strings out of 494923
- 145104 string characters out of 6180742
- 399538 words of memory out of 5000000
- 11882 multiletter control sequences out of 15000+600000
+ 16405 strings out of 494923
+ 255034 string characters out of 6180742
+ 705988 words of memory out of 5000000
+ 12986 multiletter control sequences out of 15000+600000
  43643 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,9n,51p,1423b,1794s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/symbols/msam10.pfb>
-Output written on report.pdf (52 pages, 1532293 bytes).
+ 34i,9n,51p,1423b,1792s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{subsection.4.4.6} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.4.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.4.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.4.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.13} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.12} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.11} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.10} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.9} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.8} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.1.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
+texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msam10.pfb>
+Output written on report.pdf (154 pages, 1980188 bytes).
 PDF statistics:
- 2119 PDF objects out of 2487 (max. 8388607)
- 2015 compressed objects within 21 object streams
- 1341 named destinations out of 1440 (max. 500000)
- 560 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 8765 PDF objects out of 8907 (max. 8388607)
+ 8493 compressed objects within 85 object streams
+ 6472 named destinations out of 7423 (max. 500000)
+ 765 words of extra memory for PDF output out of 10000 (max. 10000000)
 

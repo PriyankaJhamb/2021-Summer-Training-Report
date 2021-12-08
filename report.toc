@@ -61,11 +61,37 @@
 \contentsline {section}{\numberline {3.2}Android setup}{37}{section.3.2}
 \contentsline {section}{\numberline {3.3}Create the app}{37}{section.3.3}
 \contentsline {section}{\numberline {3.4}Write your first Flutter app}{38}{section.3.4}
-\contentsline {chapter}{\numberline {4}Work Done}{42}{chapter.4}
-\contentsline {section}{\numberline {4.1}Experimental setup}{42}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}}{42}{subsection.4.1.1}
-\contentsline {chapter}{\numberline {5}Future Work}{43}{chapter.5}
-\contentsline {section}{\numberline {5.1}}{43}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}}{43}{subsection.5.1.1}
-\contentsline {chapter}{\numberline {6}Conclusion}{44}{chapter.6}
-\contentsline {chapter}{References}{45}{section*.10}
+\contentsline {subsection}{\numberline {3.4.1}Loader}{41}{subsection.3.4.1}
+\contentsline {chapter}{\numberline {4}Project: Food Delivery App}{43}{chapter.4}
+\contentsline {section}{\numberline {4.1}Main page}{43}{section.4.1}
+\contentsline {section}{\numberline {4.2}Pages}{46}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Splash Page}{46}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Home Page}{47}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Tags Page}{52}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Success Page}{55}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Show-orders Page}{56}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Restaurants Page}{59}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Restaurants Data Page}{63}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Dishes Page}{74}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Dishes Data Page}{80}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Cart Page}{93}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.11}Location Page}{105}{subsection.4.2.11}
+\contentsline {subsection}{\numberline {4.2.12}More Information Order Page}{106}{subsection.4.2.12}
+\contentsline {subsection}{\numberline {4.2.13}RazorPay Page}{111}{subsection.4.2.13}
+\contentsline {section}{\numberline {4.3}Authentication}{113}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Login Page}{113}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Register Page}{119}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Profile}{128}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}User Profile Page}{128}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}User Addresses Page}{132}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Models}{135}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Dish}{135}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Restaurant}{136}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Order}{136}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}User}{137}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}Dish Model For Cart}{137}{subsection.4.5.5}
+\contentsline {subsection}{\numberline {4.5.6}Address}{138}{subsection.4.5.6}
+\contentsline {section}{\numberline {4.6}Custom Widgets}{138}{section.4.6}
+\contentsline {section}{\numberline {4.7}Util}{143}{section.4.7}
+\contentsline {chapter}{\numberline {5}Conclusion}{145}{chapter.5}
+\contentsline {chapter}{References}{146}{section*.10}

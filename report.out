@@ -53,11 +53,37 @@
 \BOOKMARK [1][-]{section.3.2}{Android setup}{chapter.3}% 53
 \BOOKMARK [1][-]{section.3.3}{Create the app}{chapter.3}% 54
 \BOOKMARK [1][-]{section.3.4}{Write your first Flutter app}{chapter.3}% 55
-\BOOKMARK [0][-]{chapter.4}{Work Done}{}% 56
-\BOOKMARK [1][-]{section.4.1}{Experimental setup}{chapter.4}% 57
-\BOOKMARK [2][-]{subsection.4.1.1}{}{section.4.1}% 58
-\BOOKMARK [0][-]{chapter.5}{Future Work}{}% 59
-\BOOKMARK [1][-]{section.5.1}{}{chapter.5}% 60
-\BOOKMARK [2][-]{subsection.5.1.1}{}{section.5.1}% 61
-\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 62
-\BOOKMARK [0][-]{section*.10}{References}{}% 63
+\BOOKMARK [2][-]{subsection.3.4.1}{Loader}{section.3.4}% 56
+\BOOKMARK [0][-]{chapter.4}{Project: Food Delivery App}{}% 57
+\BOOKMARK [1][-]{section.4.1}{Main page}{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.2}{Pages}{chapter.4}% 59
+\BOOKMARK [2][-]{subsection.4.2.1}{Splash Page}{section.4.2}% 60
+\BOOKMARK [2][-]{subsection.4.2.2}{Home Page}{section.4.2}% 61
+\BOOKMARK [2][-]{subsection.4.2.3}{Tags Page}{section.4.2}% 62
+\BOOKMARK [2][-]{subsection.4.2.4}{Success Page}{section.4.2}% 63
+\BOOKMARK [2][-]{subsection.4.2.5}{Show-orders Page}{section.4.2}% 64
+\BOOKMARK [2][-]{subsection.4.2.6}{Restaurants Page}{section.4.2}% 65
+\BOOKMARK [2][-]{subsection.4.2.7}{Restaurants Data Page}{section.4.2}% 66
+\BOOKMARK [2][-]{subsection.4.2.8}{Dishes Page}{section.4.2}% 67
+\BOOKMARK [2][-]{subsection.4.2.9}{Dishes Data Page}{section.4.2}% 68
+\BOOKMARK [2][-]{subsection.4.2.10}{Cart Page}{section.4.2}% 69
+\BOOKMARK [2][-]{subsection.4.2.11}{Location Page}{section.4.2}% 70
+\BOOKMARK [2][-]{subsection.4.2.12}{More Information Order Page}{section.4.2}% 71
+\BOOKMARK [2][-]{subsection.4.2.13}{RazorPay Page}{section.4.2}% 72
+\BOOKMARK [1][-]{section.4.3}{Authentication}{chapter.4}% 73
+\BOOKMARK [2][-]{subsection.4.3.1}{Login Page}{section.4.3}% 74
+\BOOKMARK [2][-]{subsection.4.3.2}{Register Page}{section.4.3}% 75
+\BOOKMARK [1][-]{section.4.4}{Profile}{chapter.4}% 76
+\BOOKMARK [2][-]{subsection.4.4.1}{User Profile Page}{section.4.4}% 77
+\BOOKMARK [2][-]{subsection.4.4.2}{User Addresses Page}{section.4.4}% 78
+\BOOKMARK [1][-]{section.4.5}{Models}{chapter.4}% 79
+\BOOKMARK [2][-]{subsection.4.5.1}{Dish}{section.4.5}% 80
+\BOOKMARK [2][-]{subsection.4.5.2}{Restaurant}{section.4.5}% 81
+\BOOKMARK [2][-]{subsection.4.5.3}{Order}{section.4.5}% 82
+\BOOKMARK [2][-]{subsection.4.5.4}{User}{section.4.5}% 83
+\BOOKMARK [2][-]{subsection.4.5.5}{Dish Model For Cart}{section.4.5}% 84
+\BOOKMARK [2][-]{subsection.4.5.6}{Address}{section.4.5}% 85
+\BOOKMARK [1][-]{section.4.6}{Custom Widgets}{chapter.4}% 86
+\BOOKMARK [1][-]{section.4.7}{Util}{chapter.4}% 87
+\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 88
+\BOOKMARK [0][-]{section*.10}{References}{}% 89
