@@ -55,36 +55,47 @@
 \BOOKMARK [1][-]{section.3.4}{Write your first Flutter app}{chapter.3}% 55
 \BOOKMARK [2][-]{subsection.3.4.1}{Loader}{section.3.4}% 56
 \BOOKMARK [0][-]{chapter.4}{Project: Food Delivery App}{}% 57
-\BOOKMARK [1][-]{section.4.1}{Main page}{chapter.4}% 58
-\BOOKMARK [1][-]{section.4.2}{Pages}{chapter.4}% 59
-\BOOKMARK [2][-]{subsection.4.2.1}{Splash Page}{section.4.2}% 60
-\BOOKMARK [2][-]{subsection.4.2.2}{Home Page}{section.4.2}% 61
-\BOOKMARK [2][-]{subsection.4.2.3}{Tags Page}{section.4.2}% 62
-\BOOKMARK [2][-]{subsection.4.2.4}{Success Page}{section.4.2}% 63
-\BOOKMARK [2][-]{subsection.4.2.5}{Show-orders Page}{section.4.2}% 64
-\BOOKMARK [2][-]{subsection.4.2.6}{Restaurants Page}{section.4.2}% 65
-\BOOKMARK [2][-]{subsection.4.2.7}{Restaurants Data Page}{section.4.2}% 66
-\BOOKMARK [2][-]{subsection.4.2.8}{Dishes Page}{section.4.2}% 67
-\BOOKMARK [2][-]{subsection.4.2.9}{Dishes Data Page}{section.4.2}% 68
-\BOOKMARK [2][-]{subsection.4.2.10}{Cart Page}{section.4.2}% 69
-\BOOKMARK [2][-]{subsection.4.2.11}{Location Page}{section.4.2}% 70
-\BOOKMARK [2][-]{subsection.4.2.12}{More Information Order Page}{section.4.2}% 71
-\BOOKMARK [2][-]{subsection.4.2.13}{RazorPay Page}{section.4.2}% 72
-\BOOKMARK [1][-]{section.4.3}{Authentication}{chapter.4}% 73
-\BOOKMARK [2][-]{subsection.4.3.1}{Login Page}{section.4.3}% 74
-\BOOKMARK [2][-]{subsection.4.3.2}{Register Page}{section.4.3}% 75
-\BOOKMARK [1][-]{section.4.4}{Profile}{chapter.4}% 76
-\BOOKMARK [2][-]{subsection.4.4.1}{User Profile Page}{section.4.4}% 77
-\BOOKMARK [2][-]{subsection.4.4.2}{User Addresses Page}{section.4.4}% 78
-\BOOKMARK [1][-]{section.4.5}{Models}{chapter.4}% 79
-\BOOKMARK [2][-]{subsection.4.5.1}{Dish}{section.4.5}% 80
-\BOOKMARK [2][-]{subsection.4.5.2}{Restaurant}{section.4.5}% 81
-\BOOKMARK [2][-]{subsection.4.5.3}{Order}{section.4.5}% 82
-\BOOKMARK [2][-]{subsection.4.5.4}{User}{section.4.5}% 83
-\BOOKMARK [2][-]{subsection.4.5.5}{Dish Model For Cart}{section.4.5}% 84
-\BOOKMARK [2][-]{subsection.4.5.6}{Address}{section.4.5}% 85
-\BOOKMARK [1][-]{section.4.6}{Custom Widgets}{chapter.4}% 86
-\BOOKMARK [1][-]{section.4.7}{Util}{chapter.4}% 87
-\BOOKMARK [1][-]{section.4.8}{Database}{chapter.4}% 88
-\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 89
-\BOOKMARK [0][-]{section*.10}{References}{}% 90
+\BOOKMARK [1][-]{section.4.1}{Project}{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.2}{Tech Stack Used}{chapter.4}% 59
+\BOOKMARK [1][-]{section.4.3}{Main page}{chapter.4}% 60
+\BOOKMARK [1][-]{section.4.4}{Pages}{chapter.4}% 61
+\BOOKMARK [2][-]{subsection.4.4.1}{Splash Page}{section.4.4}% 62
+\BOOKMARK [2][-]{subsection.4.4.2}{Home Page}{section.4.4}% 63
+\BOOKMARK [2][-]{subsection.4.4.3}{Tags Page}{section.4.4}% 64
+\BOOKMARK [2][-]{subsection.4.4.4}{Success Page}{section.4.4}% 65
+\BOOKMARK [2][-]{subsection.4.4.5}{Show-orders Page}{section.4.4}% 66
+\BOOKMARK [2][-]{subsection.4.4.6}{Restaurants Page}{section.4.4}% 67
+\BOOKMARK [2][-]{subsection.4.4.7}{Restaurants Data Page}{section.4.4}% 68
+\BOOKMARK [2][-]{subsection.4.4.8}{Dishes Page}{section.4.4}% 69
+\BOOKMARK [2][-]{subsection.4.4.9}{Dishes Data Page}{section.4.4}% 70
+\BOOKMARK [2][-]{subsection.4.4.10}{Cart Page}{section.4.4}% 71
+\BOOKMARK [2][-]{subsection.4.4.11}{Location Page}{section.4.4}% 72
+\BOOKMARK [2][-]{subsection.4.4.12}{More Information Order Page}{section.4.4}% 73
+\BOOKMARK [2][-]{subsection.4.4.13}{RazorPay Page}{section.4.4}% 74
+\BOOKMARK [1][-]{section.4.5}{Authentication}{chapter.4}% 75
+\BOOKMARK [2][-]{subsection.4.5.1}{Login Page}{section.4.5}% 76
+\BOOKMARK [2][-]{subsection.4.5.2}{Register Page}{section.4.5}% 77
+\BOOKMARK [1][-]{section.4.6}{Profile}{chapter.4}% 78
+\BOOKMARK [2][-]{subsection.4.6.1}{User Profile Page}{section.4.6}% 79
+\BOOKMARK [2][-]{subsection.4.6.2}{User Addresses Page}{section.4.6}% 80
+\BOOKMARK [1][-]{section.4.7}{Models}{chapter.4}% 81
+\BOOKMARK [2][-]{subsection.4.7.1}{Dish}{section.4.7}% 82
+\BOOKMARK [2][-]{subsection.4.7.2}{Restaurant}{section.4.7}% 83
+\BOOKMARK [2][-]{subsection.4.7.3}{Order}{section.4.7}% 84
+\BOOKMARK [2][-]{subsection.4.7.4}{User}{section.4.7}% 85
+\BOOKMARK [2][-]{subsection.4.7.5}{Dish Model For Cart}{section.4.7}% 86
+\BOOKMARK [2][-]{subsection.4.7.6}{Address}{section.4.7}% 87
+\BOOKMARK [1][-]{section.4.8}{Custom Widgets}{chapter.4}% 88
+\BOOKMARK [1][-]{section.4.9}{Util}{chapter.4}% 89
+\BOOKMARK [1][-]{section.4.10}{Database}{chapter.4}% 90
+\BOOKMARK [1][-]{section.4.11}{Output}{chapter.4}% 91
+\BOOKMARK [2][-]{subsection.4.11.1}{Splash and Register Page}{section.4.11}% 92
+\BOOKMARK [2][-]{subsection.4.11.2}{Login Page and Profile Page}{section.4.11}% 93
+\BOOKMARK [2][-]{subsection.4.11.3}{Profile}{section.4.11}% 94
+\BOOKMARK [2][-]{subsection.4.11.4}{Restaurant and Dishes Page if access is of admin}{section.4.11}% 95
+\BOOKMARK [2][-]{subsection.4.11.5}{Restaurant and Dishes Page if access is of not admin}{section.4.11}% 96
+\BOOKMARK [2][-]{subsection.4.11.6}{Adding Dish and Cart Page}{section.4.11}% 97
+\BOOKMARK [2][-]{subsection.4.11.7}{Show Orders after clicking on More orders button on profile page}{section.4.11}% 98
+\BOOKMARK [2][-]{subsection.4.11.8}{Specific Order Information after clicking on View More and }{section.4.11}% 99
+\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 100
+\BOOKMARK [0][-]{section*.10}{References}{}% 101

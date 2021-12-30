@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.12.5)  8 DEC 2021 21:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.12.5)  30 DEC 2021 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,20 +314,20 @@ LaTeX Warning: Label `dart/makemytripdart' multiply defined.
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -394,7 +394,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 50.
+Package hyperref Info: Link coloring OFF on input line 51.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -404,9 +404,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count120
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
 
 (./report.out) (./report.out)
 \@outlinefile=\write3
@@ -414,12 +414,12 @@ LaTeX Info: Redefining \nameref on input line 50.
 
 \c@lstlisting=\count121
  (./chapters/title.tex
-<images/logogne.png, id=365, 951.555pt x 1043.9pt>
+<images/logogne.png, id=410, 951.555pt x 1043.9pt>
 File: images/logogne.png Graphic file (type png)
 <use images/logogne.png>
 Package pdftex.def Info: images/logogne.png  used on input line 4.
 (pdftex.def)             Requested size: 142.26378pt x 156.06853pt.
-<images/auribises.jpg, id=367, 176.66pt x 176.66pt>
+<images/auribises.jpg, id=412, 176.66pt x 176.66pt>
 File: images/auribises.jpg Graphic file (type jpg)
 <use images/auribises.jpg>
 Package pdftex.def Info: images/auribises.jpg  used on input line 29.
@@ -485,7 +485,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--20
  []
 
 [2]) (./chapters/certificate.tex
-<images/certificate.pdf, id=383, 597.51233pt x 845.0471pt>
+<images/certificate.pdf, id=428, 597.51233pt x 845.0471pt>
 File: images/certificate.pdf Graphic file (type pdf)
 <use images/certificate.pdf>
 Package pdftex.def Info: images/certificate.pdf  used on input line 9.
@@ -528,58 +528,48 @@ Overfull \hbox (1.63202pt too wide) detected at line 41
 [2
 
 ]
-Overfull \hbox (1.41595pt too wide) detected at line 78
- []\T1/bch/m/n/12 105
- []
-
-
-Overfull \hbox (1.41595pt too wide) detected at line 79
+Overfull \hbox (1.41595pt too wide) detected at line 80
  []\T1/bch/m/n/12 106
  []
 
 
-Overfull \hbox (1.41595pt too wide) detected at line 80
- []\T1/bch/m/n/12 111
- []
-
-
 Overfull \hbox (1.41595pt too wide) detected at line 81
- []\T1/bch/m/n/12 113
+ []\T1/bch/m/n/12 108
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 82
- []\T1/bch/m/n/12 113
+ []\T1/bch/m/n/12 112
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 83
- []\T1/bch/m/n/12 119
+ []\T1/bch/m/n/12 114
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 84
- []\T1/bch/m/n/12 128
+ []\T1/bch/m/n/12 114
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 85
- []\T1/bch/m/n/12 128
+ []\T1/bch/m/n/12 121
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 86
- []\T1/bch/m/n/12 132
+ []\T1/bch/m/n/12 129
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 87
- []\T1/bch/m/n/12 135
+ []\T1/bch/m/n/12 129
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 88
- []\T1/bch/m/n/12 135
+ []\T1/bch/m/n/12 133
  []
 
 
@@ -599,7 +589,7 @@ Overfull \hbox (1.41595pt too wide) detected at line 91
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 92
- []\T1/bch/m/n/12 137
+ []\T1/bch/m/n/12 138
  []
 
 
@@ -609,17 +599,72 @@ Overfull \hbox (1.41595pt too wide) detected at line 93
 
 [3]
 Overfull \hbox (1.41595pt too wide) detected at line 94
- []\T1/bch/m/n/12 138
+ []\T1/bch/m/n/12 139
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 95
- []\T1/bch/m/n/12 143
+ []\T1/bch/m/n/12 139
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 96
+ []\T1/bch/m/n/12 140
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 97
  []\T1/bch/m/n/12 144
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 98
+ []\T1/bch/m/n/12 145
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 99
+ []\T1/bch/m/n/12 147
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 100
+ []\T1/bch/m/n/12 147
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 101
+ []\T1/bch/m/n/12 148
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 102
+ []\T1/bch/m/n/12 149
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 103
+ []\T1/bch/m/n/12 150
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 104
+ []\T1/bch/m/n/12 152
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 105
+ []\T1/bch/m/n/12 153
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 106
+ []\T1/bch/m/n/12 155
+ []
+
+
+Overfull \hbox (1.41595pt too wide) detected at line 107
+ []\T1/bch/m/n/12 156
  []
 
 )
@@ -664,15 +709,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 \end{lstlisting}
-                      [2
+l.35 V
+      ariables store references. The variable called name contains a referen...
+[2
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.82 \end{lstlisting}
-                      [3]
+l.75 \begin{lstlisting}[language=C]
+                                    [3]
 LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 87.
 
@@ -696,7 +742,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 324--325
 
  []
 
-[9] [10]
+[9] [10] [11]
 Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
@@ -721,7 +767,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 470--473
 
  []
 
-[11] [12] [13]
+[12] [13]
 Overfull \hbox (4.72055pt too wide) in paragraph at lines 568--569
 []\T1/bch/m/n/12 assert: Dur-ing de-vel-op-ment, use an as-sert state-ment - as
 -sert(condition, op-tionalMes-
@@ -731,7 +777,7 @@ Overfull \hbox (4.72055pt too wide) in paragraph at lines 568--569
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 890.
  (./dart/Session1.dart [21] [22])
-<dart/Output1.png, id=1245, 451.6875pt x 349.305pt>
+<dart/Output1.png, id=1285, 451.6875pt x 349.305pt>
 File: dart/Output1.png Graphic file (type png)
 <use dart/Output1.png>
 Package pdftex.def Info: dart/Output1.png  used on input line 891.
@@ -742,7 +788,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 891--892
  []
 
 (./dart/Session2.dart [23 <./dart/Output1.png>])
-<dart/initialisationOutput.png, id=1272, 446.66875pt x 178.6675pt>
+<dart/initialisationOutput.png, id=1313, 446.66875pt x 178.6675pt>
 File: dart/initialisationOutput.png Graphic file (type png)
 <use dart/initialisationOutput.png>
 Package pdftex.def Info: dart/initialisationOutput.png  used on input line 895.
@@ -753,9 +799,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 895--896
 
  []
 
-(./dart/Session2final_const.dart [24 <./dart/initialisationOutput.png>])
-(./dart/Session5.dart) (./dart/Session7.dart [25])
-<dart/abstract.png, id=1363, 494.84875pt x 171.64125pt>
+[24 <./dart/initialisationOutput.png>] (./dart/Session2final_const.dart)
+(./dart/Session5.dart [25]) (./dart/Session7.dart [26])
+<dart/abstract.png, id=1457, 494.84875pt x 171.64125pt>
 File: dart/abstract.png Graphic file (type png)
 <use dart/abstract.png>
 Package pdftex.def Info: dart/abstract.png  used on input line 902.
@@ -765,8 +811,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 902--903
 
  []
 
-[26 <./dart/abstract.png>] (./dart/stringrandom.dart)
-<dart/randomgeneratestring.png, id=1409, 416.55624pt x 119.44624pt>
+(./dart/stringrandom.dart)
+<dart/randomgeneratestring.png, id=1458, 416.55624pt x 119.44624pt>
 File: dart/randomgeneratestring.png Graphic file (type png)
 <use dart/randomgeneratestring.png>
 Package pdftex.def Info: dart/randomgeneratestring.png  used on input line 905.
@@ -777,8 +823,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 905--906
 
  []
 
-(./dart/Session1HW.dart [27 <./dart/randomgeneratestring.png>])
-<dart/waterbottleOutput.png, id=1446, 596.2275pt x 132.495pt>
+[27 <./dart/abstract.png> <./dart/randomgeneratestring.png>]
+(./dart/Session1HW.dart [28])
+<dart/waterbottleOutput.png, id=1537, 596.2275pt x 132.495pt>
 File: dart/waterbottleOutput.png Graphic file (type png)
 <use dart/waterbottleOutput.png>
 Package pdftex.def Info: dart/waterbottleOutput.png  used on input line 909.
@@ -788,9 +835,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 909--910
 
  []
 
-[28 <./dart/waterbottleOutput.png>]
-(./dart/Assignment1CovidCasesTabularform.dart [29] [30] [31])
-<dart/covidcases.png, id=1655, 985.6825pt x 599.23875pt>
+(./dart/Assignment1CovidCasesTabularform.dart [29 <./dart/waterbottleOutput.png
+>] [30] [31] [32])
+<dart/covidcases.png, id=1747, 985.6825pt x 599.23875pt>
 File: dart/covidcases.png Graphic file (type png)
 <use dart/covidcases.png>
 Package pdftex.def Info: dart/covidcases.png  used on input line 912.
@@ -800,8 +847,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 912--913
 
  []
 
-[32] (./dart/makemytrip.dart [33 <./dart/covidcases.png>])
-<dart/makemytrip.png, id=1740, 745.78625pt x 160.6pt>
+(./dart/makemytrip.dart [33 <./dart/covidcases.png>] [34])
+<dart/makemytrip.png, id=1831, 745.78625pt x 160.6pt>
 File: dart/makemytrip.png Graphic file (type png)
 <use dart/makemytrip.png>
 Package pdftex.def Info: dart/makemytrip.png  used on input line 915.
@@ -812,7 +859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 915--1
 
  []
 
-[34] [35 <./dart/makemytrip.png>]
+[35 <./dart/makemytrip.png>]
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -836,13 +883,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
  []
 
-
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 64--68
 
  []
 
-[37] (./dart/Session8.dart [38] [39])
-<dart/flutterdemo.png, id=1898, 425.59pt x 538.01pt>
+(./dart/Session8.dart [38] [39])
+<dart/flutterdemo.png, id=1952, 425.59pt x 538.01pt>
 File: dart/flutterdemo.png Graphic file (type png)
 <use dart/flutterdemo.png>
 Package pdftex.def Info: dart/flutterdemo.png  used on input line 69.
@@ -853,7 +900,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--70
  []
 
 [40] (./dart/Assignment2Loader [41 <./dart/flutterdemo.png>])
-<dart/loader.png, id=1952, 428.60126pt x 528.97626pt>
+<dart/loader.png, id=2007, 428.60126pt x 528.97626pt>
 File: dart/loader.png Graphic file (type png)
 <use dart/loader.png>
 Package pdftex.def Info: dart/loader.png  used on input line 73.
@@ -863,39 +910,237 @@ Package pdftex.def Info: dart/loader.png  used on input line 73.
 Chapter 4.
 (./StudioProjects/fooddelivery/lib/main.dart [43
 
-] [44] [45])
-(./StudioProjects/fooddelivery/lib/home/splash-page.dart [46])
-(./StudioProjects/fooddelivery/lib/home/home-page.dart [47] [48] [49] [50]
-[51]) (./StudioProjects/fooddelivery/lib/pages/tags-page.dart [52] [53]
-[54]) (./StudioProjects/fooddelivery/lib/pages/success.dart [55])
-(./StudioProjects/fooddelivery/lib/pages/show-orders.dart [56] [57] [58])
-(./StudioProjects/fooddelivery/lib/pages/restaurants.dart [59] [60] [61]
-[62]) (./StudioProjects/fooddelivery/lib/pages/restaurants-data-page.dart
-[63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73])
-(./StudioProjects/fooddelivery/lib/pages/dishes.dart [74] [75] [76] [77]
-[78] [79]) (./StudioProjects/fooddelivery/lib/pages/dishes-data-page.dart
-[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92])
-(./StudioProjects/fooddelivery/lib/pages/cart-page.dart [93] [94] [95] [96]
-[97] [98] [99] [100] [101] [102] [103] [104])
-(./StudioProjects/fooddelivery/lib/pages/location-page.dart [105])
-(./StudioProjects/fooddelivery/lib/pages/more-info-order.dart [106] [107]
-[108] [109] [110]) (./StudioProjects/fooddelivery/lib/pages/razorpay-page.dart
-[111] [112]) (./StudioProjects/fooddelivery/lib/auth/login-page.dart [113]
-[114] [115] [116] [117] [118])
-(./StudioProjects/fooddelivery/lib/auth/register-page.dart [119] [120] [121]
-[122] [123] [124] [125] [126] [127])
-(./StudioProjects/fooddelivery/lib/profile/user-profile.dart [128] [129]
-[130] [131]) (./StudioProjects/fooddelivery/lib/profile/user-addresses.dart
-[132] [133] [134]) (./StudioProjects/fooddelivery/lib/model/dish.dart [135])
-(./StudioProjects/fooddelivery/lib/model/restaurant.dart)
-(./StudioProjects/fooddelivery/lib/model/order.dart [136])
-(./StudioProjects/fooddelivery/lib/model/user.dart)
-(./StudioProjects/fooddelivery/lib/model/dish-model-for-cart.dart [137])
-(./StudioProjects/fooddelivery/lib/model/address.dart)
-(./StudioProjects/fooddelivery/lib/custom-widgets/counter.dart [138] [139]
-[140] [141]) [142] (./StudioProjects/fooddelivery/lib/util/constants.dart
-[143]) (./StudioProjects/fooddelivery/lib/db/provider.dart))
-(./chapters/conclusion.tex [144]
+] [44] [45]) [46]
+(./StudioProjects/fooddelivery/lib/home/splash-page.dart [47])
+(./StudioProjects/fooddelivery/lib/home/home-page.dart [48] [49] [50] [51]
+[52]) (./StudioProjects/fooddelivery/lib/pages/tags-page.dart [53] [54]
+[55]) (./StudioProjects/fooddelivery/lib/pages/success.dart) [56]
+(./StudioProjects/fooddelivery/lib/pages/show-orders.dart [57] [58]) [59]
+(./StudioProjects/fooddelivery/lib/pages/restaurants.dart [60] [61] [62]
+[63]) (./StudioProjects/fooddelivery/lib/pages/restaurants-data-page.dart
+[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74])
+(./StudioProjects/fooddelivery/lib/pages/dishes.dart [75] [76] [77] [78]
+[79] [80]) (./StudioProjects/fooddelivery/lib/pages/dishes-data-page.dart
+[81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93])
+(./StudioProjects/fooddelivery/lib/pages/cart-page.dart [94] [95] [96] [97]
+[98] [99] [100] [101] [102] [103] [104] [105])
+(./StudioProjects/fooddelivery/lib/pages/location-page.dart [106]) [107]
+(./StudioProjects/fooddelivery/lib/pages/more-info-order.dart [108] [109]
+[110] [111]) (./StudioProjects/fooddelivery/lib/pages/razorpay-page.dart
+[112] [113]) (./StudioProjects/fooddelivery/lib/auth/login-page.dart [114]
+[115] [116] [117] [118] [119] [120])
+(./StudioProjects/fooddelivery/lib/auth/register-page.dart [121] [122] [123]
+[124] [125] [126] [127] [128])
+(./StudioProjects/fooddelivery/lib/profile/user-profile.dart [129] [130]
+[131] [132]) (./StudioProjects/fooddelivery/lib/profile/user-addresses.dart
+[133] [134] [135]) (./StudioProjects/fooddelivery/lib/model/dish.dart [136])
+(./StudioProjects/fooddelivery/lib/model/restaurant.dart) [137]
+(./StudioProjects/fooddelivery/lib/model/order.dart)
+(./StudioProjects/fooddelivery/lib/model/user.dart [138])
+(./StudioProjects/fooddelivery/lib/model/dish-model-for-cart.dart)
+(./StudioProjects/fooddelivery/lib/model/address.dart [139])
+(./StudioProjects/fooddelivery/lib/custom-widgets/counter.dart [140] [141]
+[142] [143]) (./StudioProjects/fooddelivery/lib/util/constants.dart [144])
+(./StudioProjects/fooddelivery/lib/db/provider.dart [145])
+<StudioProjects/fooddelivery/output/splashpage.png, id=7488, 722.7pt x 1606.0pt
+>
+File: StudioProjects/fooddelivery/output/splashpage.png Graphic file (type png)
+
+<use StudioProjects/fooddelivery/output/splashpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/splashpage.png  use
+d on input line 93.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/registerpage.png, id=7489, 722.7pt x 1606.0
+pt>
+File: StudioProjects/fooddelivery/output/registerpage.png Graphic file (type pn
+g)
+<use StudioProjects/fooddelivery/output/registerpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/registerpage.png  u
+sed on input line 95.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [146]
+<StudioProjects/fooddelivery/output/loginpage.png, id=7518, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/loginpage.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/loginpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/loginpage.png  used
+ on input line 99.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/loginpageafterdata.png, id=7519, 722.7pt x 
+1606.0pt>
+File: StudioProjects/fooddelivery/output/loginpageafterdata.png Graphic file (t
+ype png)
+<use StudioProjects/fooddelivery/output/loginpageafterdata.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/loginpageafterdata.
+png  used on input line 101.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [147 <./StudioProjects/fooddelivery/output/splashpage.png> <./StudioProjects/f
+ooddelivery/output/registerpage.png>]
+<StudioProjects/fooddelivery/output/myprofile.png, id=7524, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/myprofile.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/myprofile.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/myprofile.png  used
+ on input line 108.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/profilepageafterimage.png, id=7525, 722.7pt
+ x 1606.0pt>
+File: StudioProjects/fooddelivery/output/profilepageafterimage.png Graphic file
+ (type png)
+<use StudioProjects/fooddelivery/output/profilepageafterimage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/profilepageafterima
+ge.png  used on input line 110.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [148 <./StudioProjects/fooddelivery/output/loginpage.png> <./StudioProjects/fo
+oddelivery/output/loginpageafterdata.png>]
+<StudioProjects/fooddelivery/output/homepage.png, id=7530, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/homepage.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/homepage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/homepage.png  used 
+on input line 115.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/dishes.png, id=7531, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/dishes.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/dishes.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/dishes.png  used on
+ input line 117.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [149 <./StudioProjects/fooddelivery/output/myprofile.png> <./StudioProjects/fo
+oddelivery/output/profilepageafterimage.png>]
+<StudioProjects/fooddelivery/output/datarestaurantpage.png, id=7537, 722.7pt x 
+1606.0pt>
+File: StudioProjects/fooddelivery/output/datarestaurantpage.png Graphic file (t
+ype png)
+<use StudioProjects/fooddelivery/output/datarestaurantpage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/datarestaurantpage.
+png  used on input line 121.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/datarestaurantpagewithcameragallary.png, id
+=7538, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/datarestaurantpagewithcameragallary.pn
+g Graphic file (type png)
+<use StudioProjects/fooddelivery/output/datarestaurantpagewithcameragallary.png
+>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/datarestaurantpagew
+ithcameragallary.png  used on input line 123.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+ [150 <./StudioProjects/fooddelivery/output/homepage.png> <./StudioProjects/foo
+ddelivery/output/dishes.png>]
+<StudioProjects/fooddelivery/output/dishesdatapage.png, id=7543, 722.7pt x 1606
+.0pt>
+File: StudioProjects/fooddelivery/output/dishesdatapage.png Graphic file (type 
+png)
+<use StudioProjects/fooddelivery/output/dishesdatapage.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/dishesdatapage.png 
+ used on input line 127.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/dishesdatapagewithimape.png, id=7544, 722.7
+pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/dishesdatapagewithimape.png Graphic fi
+le (type png)
+<use StudioProjects/fooddelivery/output/dishesdatapagewithimape.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/dishesdatapagewithi
+mape.png  used on input line 129.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg, id=7545, 722.7
+pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg Graphic fi
+le (type jpg)
+<use StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/restaurantwithoutad
+min.jpeg  used on input line 133.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg, id=7546, 722.7pt x
+ 1606.0pt>
+File: StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg Graphic file (
+type jpg)
+<use StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/disheswithoutadmin.
+jpeg  used on input line 135.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [151 <./StudioProjects/fooddelivery/output/datarestaurantpage.png> <./StudioPr
+ojects/fooddelivery/output/datarestaurantpagewithcameragallary.png> <./StudioPr
+ojects/fooddelivery/output/dishesdatapage.png> <./StudioProjects/fooddelivery/o
+utput/dishesdatapagewithimape.png>]
+<StudioProjects/fooddelivery/output/addingdish.png, id=7551, 722.7pt x 1606.0pt
+>
+File: StudioProjects/fooddelivery/output/addingdish.png Graphic file (type png)
+
+<use StudioProjects/fooddelivery/output/addingdish.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/addingdish.png  use
+d on input line 142.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/cartpagewithoutselection.png, id=7552, 722.
+7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/cartpagewithoutselection.png Graphic f
+ile (type png)
+<use StudioProjects/fooddelivery/output/cartpagewithoutselection.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/cartpagewithoutsele
+ction.png  used on input line 144.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [152 <./StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg> <./Stu
+dioProjects/fooddelivery/output/disheswithoutadmin.jpeg>]
+<StudioProjects/fooddelivery/output/cartpagewithselection.png, id=7557, 722.7pt
+ x 1606.0pt>
+File: StudioProjects/fooddelivery/output/cartpagewithselection.png Graphic file
+ (type png)
+<use StudioProjects/fooddelivery/output/cartpagewithselection.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/cartpagewithselecti
+on.png  used on input line 148.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/razorpay2.png, id=7558, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/razorpay2.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/razorpay2.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay2.png  used
+ on input line 150.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+
+[153 <./StudioProjects/fooddelivery/output/addingdish.png> <./StudioProjects/fo
+oddelivery/output/cartpagewithoutselection.png>]
+<StudioProjects/fooddelivery/output/razorpay3.png, id=7563, 722.7pt x 1606.0pt>
+
+File: StudioProjects/fooddelivery/output/razorpay3.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/razorpay3.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay3.png  used
+ on input line 156.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/razorpay.png, id=7564, 722.7pt x 1606.0pt>
+File: StudioProjects/fooddelivery/output/razorpay.png Graphic file (type png)
+<use StudioProjects/fooddelivery/output/razorpay.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay.png  used 
+on input line 158.
+(pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
+<StudioProjects/fooddelivery/output/showorders1.png, id=7565, 722.7pt x 1606.0p
+t>
+File: StudioProjects/fooddelivery/output/showorders1.png Graphic file (type png
+)
+<use StudioProjects/fooddelivery/output/showorders1.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/showorders1.png  us
+ed on input line 163.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+<StudioProjects/fooddelivery/output/showorders2.png, id=7566, 722.7pt x 1606.0p
+t>
+File: StudioProjects/fooddelivery/output/showorders2.png Graphic file (type png
+)
+<use StudioProjects/fooddelivery/output/showorders2.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/showorders2.png  us
+ed on input line 165.
+(pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
+ [154 <./StudioProjects/fooddelivery/output/cartpagewithselection.png> <./Studi
+oProjects/fooddelivery/output/razorpay2.png> <./StudioProjects/fooddelivery/out
+put/razorpay3.png> <./StudioProjects/fooddelivery/output/razorpay.png>]
+<StudioProjects/fooddelivery/output/orderspecific.png, id=7571, 722.7pt x 1606.
+0pt>
+File: StudioProjects/fooddelivery/output/orderspecific.png Graphic file (type p
+ng)
+<use StudioProjects/fooddelivery/output/orderspecific.png>
+Package pdftex.def Info: StudioProjects/fooddelivery/output/orderspecific.png  
+used on input line 171.
+(pdftex.def)             Requested size: 455.24826pt x 682.87181pt.
+) (./chapters/conclusion.tex [155 <./StudioProjects/fooddelivery/output/showord
+ers1.png> <./StudioProjects/fooddelivery/output/showorders2.png>] [156 <./Studi
+oProjects/fooddelivery/output/orderspecific.png>]
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -917,43 +1162,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) (./chapters/ref.tex [145
+) (./chapters/ref.tex [157
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
- [146
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+ [158
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 685A3E147AB38F4155A3BA6C7EC4F96B;6336.
+(rerunfilecheck)             Checksum: 5AA45E57167896064003A652ECF9BD6D;7263.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 16443 strings out of 494923
- 255800 string characters out of 6180742
- 706148 words of memory out of 5000000
- 13005 multiletter control sequences out of 15000+600000
+ 16604 strings out of 494923
+ 262300 string characters out of 6180742
+ 882169 words of memory out of 5000000
+ 13110 multiletter control sequences out of 15000+600000
  43643 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,9n,51p,1423b,1792s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,9n,51p,1423b,1798s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/symbols/msam10.pfb>
-Output written on report.pdf (154 pages, 1983357 bytes).
+Output written on report.pdf (166 pages, 3758547 bytes).
 PDF statistics:
- 8795 PDF objects out of 8907 (max. 8388607)
- 8522 compressed objects within 86 object streams
- 6487 named destinations out of 7423 (max. 500000)
- 781 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 8939 PDF objects out of 10688 (max. 8388607)
+ 8630 compressed objects within 87 object streams
+ 6519 named destinations out of 7423 (max. 500000)
+ 984 words of extra memory for PDF output out of 10000 (max. 10000000)
 
