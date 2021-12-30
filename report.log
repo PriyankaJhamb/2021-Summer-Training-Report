@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.12.5)  30 DEC 2021 15:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.12.5)  30 DEC 2021 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -624,47 +624,47 @@ Overfull \hbox (1.41595pt too wide) detected at line 98
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 99
- []\T1/bch/m/n/12 147
+ []\T1/bch/m/n/12 146
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 100
- []\T1/bch/m/n/12 147
+ []\T1/bch/m/n/12 146
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 101
- []\T1/bch/m/n/12 148
+ []\T1/bch/m/n/12 146
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 102
- []\T1/bch/m/n/12 149
+ []\T1/bch/m/n/12 146
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 103
- []\T1/bch/m/n/12 150
+ []\T1/bch/m/n/12 146
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 104
- []\T1/bch/m/n/12 152
+ []\T1/bch/m/n/12 147
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 105
- []\T1/bch/m/n/12 153
+ []\T1/bch/m/n/12 147
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 106
- []\T1/bch/m/n/12 155
+ []\T1/bch/m/n/12 147
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 107
- []\T1/bch/m/n/12 156
+ []\T1/bch/m/n/12 147
  []
 
 )
@@ -1032,7 +1032,7 @@ File: StudioProjects/fooddelivery/output/dishesdatapage.png Graphic file (type
 png)
 <use StudioProjects/fooddelivery/output/dishesdatapage.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/dishesdatapage.png 
- used on input line 127.
+ used on input line 126.
 (pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
 <StudioProjects/fooddelivery/output/dishesdatapagewithimape.png, id=7544, 722.7
 pt x 1606.0pt>
@@ -1040,35 +1040,35 @@ File: StudioProjects/fooddelivery/output/dishesdatapagewithimape.png Graphic fi
 le (type png)
 <use StudioProjects/fooddelivery/output/dishesdatapagewithimape.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/dishesdatapagewithi
-mape.png  used on input line 129.
+mape.png  used on input line 128.
 (pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
-<StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg, id=7545, 722.7
+ [151 <./StudioProjects/fooddelivery/output/datarestaurantpage.png> <./StudioPr
+ojects/fooddelivery/output/datarestaurantpagewithcameragallary.png> <./StudioPr
+ojects/fooddelivery/output/dishesdatapage.png> <./StudioProjects/fooddelivery/o
+utput/dishesdatapagewithimape.png>]
+<StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg, id=7549, 722.7
 pt x 1606.0pt>
 File: StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg Graphic fi
 le (type jpg)
 <use StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/restaurantwithoutad
-min.jpeg  used on input line 133.
+min.jpeg  used on input line 132.
 (pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
-<StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg, id=7546, 722.7pt x
+<StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg, id=7550, 722.7pt x
  1606.0pt>
 File: StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg Graphic file (
 type jpg)
 <use StudioProjects/fooddelivery/output/disheswithoutadmin.jpeg>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/disheswithoutadmin.
-jpeg  used on input line 135.
+jpeg  used on input line 134.
 (pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
- [151 <./StudioProjects/fooddelivery/output/datarestaurantpage.png> <./StudioPr
-ojects/fooddelivery/output/datarestaurantpagewithcameragallary.png> <./StudioPr
-ojects/fooddelivery/output/dishesdatapage.png> <./StudioProjects/fooddelivery/o
-utput/dishesdatapagewithimape.png>]
 <StudioProjects/fooddelivery/output/addingdish.png, id=7551, 722.7pt x 1606.0pt
 >
 File: StudioProjects/fooddelivery/output/addingdish.png Graphic file (type png)
 
 <use StudioProjects/fooddelivery/output/addingdish.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/addingdish.png  use
-d on input line 142.
+d on input line 141.
 (pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
 <StudioProjects/fooddelivery/output/cartpagewithoutselection.png, id=7552, 722.
 7pt x 1606.0pt>
@@ -1076,7 +1076,7 @@ File: StudioProjects/fooddelivery/output/cartpagewithoutselection.png Graphic f
 ile (type png)
 <use StudioProjects/fooddelivery/output/cartpagewithoutselection.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/cartpagewithoutsele
-ction.png  used on input line 144.
+ction.png  used on input line 143.
 (pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
  [152 <./StudioProjects/fooddelivery/output/restaurantwithoutadmin.jpeg> <./Stu
 dioProjects/fooddelivery/output/disheswithoutadmin.jpeg>]
@@ -1086,14 +1086,14 @@ File: StudioProjects/fooddelivery/output/cartpagewithselection.png Graphic file
  (type png)
 <use StudioProjects/fooddelivery/output/cartpagewithselection.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/cartpagewithselecti
-on.png  used on input line 148.
+on.png  used on input line 147.
 (pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
 <StudioProjects/fooddelivery/output/razorpay2.png, id=7558, 722.7pt x 1606.0pt>
 
 File: StudioProjects/fooddelivery/output/razorpay2.png Graphic file (type png)
 <use StudioProjects/fooddelivery/output/razorpay2.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay2.png  used
- on input line 150.
+ on input line 149.
 (pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
 
 [153 <./StudioProjects/fooddelivery/output/addingdish.png> <./StudioProjects/fo
@@ -1103,41 +1103,41 @@ oddelivery/output/cartpagewithoutselection.png>]
 File: StudioProjects/fooddelivery/output/razorpay3.png Graphic file (type png)
 <use StudioProjects/fooddelivery/output/razorpay3.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay3.png  used
- on input line 156.
+ on input line 155.
 (pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
 <StudioProjects/fooddelivery/output/razorpay.png, id=7564, 722.7pt x 1606.0pt>
 File: StudioProjects/fooddelivery/output/razorpay.png Graphic file (type png)
 <use StudioProjects/fooddelivery/output/razorpay.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/razorpay.png  used 
-on input line 158.
+on input line 157.
 (pdftex.def)             Requested size: 184.94218pt x 355.64912pt.
-<StudioProjects/fooddelivery/output/showorders1.png, id=7565, 722.7pt x 1606.0p
+ [154 <./StudioProjects/fooddelivery/output/cartpagewithselection.png> <./Studi
+oProjects/fooddelivery/output/razorpay2.png> <./StudioProjects/fooddelivery/out
+put/razorpay3.png> <./StudioProjects/fooddelivery/output/razorpay.png>]
+<StudioProjects/fooddelivery/output/showorders1.png, id=7569, 722.7pt x 1606.0p
 t>
 File: StudioProjects/fooddelivery/output/showorders1.png Graphic file (type png
 )
 <use StudioProjects/fooddelivery/output/showorders1.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/showorders1.png  us
-ed on input line 163.
+ed on input line 162.
 (pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
-<StudioProjects/fooddelivery/output/showorders2.png, id=7566, 722.7pt x 1606.0p
+<StudioProjects/fooddelivery/output/showorders2.png, id=7570, 722.7pt x 1606.0p
 t>
 File: StudioProjects/fooddelivery/output/showorders2.png Graphic file (type png
 )
 <use StudioProjects/fooddelivery/output/showorders2.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/showorders2.png  us
-ed on input line 165.
+ed on input line 164.
 (pdftex.def)             Requested size: 213.39314pt x 512.1661pt.
- [154 <./StudioProjects/fooddelivery/output/cartpagewithselection.png> <./Studi
-oProjects/fooddelivery/output/razorpay2.png> <./StudioProjects/fooddelivery/out
-put/razorpay3.png> <./StudioProjects/fooddelivery/output/razorpay.png>]
 <StudioProjects/fooddelivery/output/orderspecific.png, id=7571, 722.7pt x 1606.
 0pt>
 File: StudioProjects/fooddelivery/output/orderspecific.png Graphic file (type p
 ng)
 <use StudioProjects/fooddelivery/output/orderspecific.png>
 Package pdftex.def Info: StudioProjects/fooddelivery/output/orderspecific.png  
-used on input line 171.
-(pdftex.def)             Requested size: 455.24826pt x 682.87181pt.
+used on input line 170.
+(pdftex.def)             Requested size: 341.43344pt x 569.06801pt.
 ) (./chapters/conclusion.tex [155 <./StudioProjects/fooddelivery/output/showord
 ers1.png> <./StudioProjects/fooddelivery/output/showorders2.png>] [156 <./Studi
 oProjects/fooddelivery/output/orderspecific.png>]
@@ -1175,7 +1175,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 5AA45E57167896064003A652ECF9BD6D;7263.
+(rerunfilecheck)             Checksum: 76C01A48593E579B7E30E9672322AA97;7246.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1195,7 +1195,7 @@ e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/symbols/msam10.pfb>
-Output written on report.pdf (166 pages, 3758547 bytes).
+Output written on report.pdf (166 pages, 3759287 bytes).
 PDF statistics:
  8939 PDF objects out of 10688 (max. 8388607)
  8630 compressed objects within 87 object streams
